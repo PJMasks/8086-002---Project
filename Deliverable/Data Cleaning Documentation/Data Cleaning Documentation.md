@@ -30,7 +30,7 @@ The data contain 13 Columns and 69631 rows, [see details in screen-shot](https:/
 This information is provided 'as is', and this site makes no warranties on the information provided. Any damages resulting from its use are disclaimed. We encourage the use of our open data commons licenses but we cannot give any warranty that they will work in the way expected or should be used for any specific purpose. For more information on license, please visit the link below. License: [See here for more information](http://opendefinition.org/licenses/odc-odbl/)
 
 ## Data clean up procedure by Microsoft Excel 2016.
--  ##### The start date and end Date were removed because they are the same across all the rows (start date =1012015; end date = 12312015)
+- The start date and end Date were removed because they are the same across all the rows (start date =1012015; end date = 12312015)
    - **Procedure**
        - Select the entire column under *start date* and *end date* by clicking the column heading and hit backspace and delete the entire data in those columns.
 - To make analysis easier, the percentage values were formatted as number(removing the % symbol) with two decimal
