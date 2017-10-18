@@ -76,7 +76,7 @@ This information is provided 'as is', and this site makes no warranties on the i
 -  Removed the rows where the average spending is **0**, as it doesn't help us in the analysis.
 -  Change the values with **percentage** to **decimal** values to help in analysis.
 
-# Data were verified Excel:
+# Data were verified using Excel:
 
 After cleaning up the data, there were 11 columns and 55316 rows, please find the link below to see the difference between before and after cleaning the dataset.    
 [Before Cleaning the Dataset](https://github.com/vnikesh/8086-002---Project/blob/master/Deliverable/Data%20Cleaning%20Documentation/Support%20Files/Before%20Cleaning.png)  
