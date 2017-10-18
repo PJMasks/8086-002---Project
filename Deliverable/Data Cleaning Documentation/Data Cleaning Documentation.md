@@ -36,12 +36,13 @@ This information is provided 'as is', and this site makes no warranties on the i
 - To make analysis easier, the percentage values were formatted as number(removing the % symbol) with two decimal
     - **Procedure**
         - Select the entire required column and hold **CTRL+H**
+        - Using Find & Replace, find all the '$' values and replace them with empty space
         
 - To make analysis easier, the cost or spending were formatted as number, where all the cost or spending was accompanied with $ as units
    - **Procedure**
         - Select the entire required column and hold **CTRL+H**
         - Using Find & Replace, find all the '$' values and replace them with empty space
-- The Period data was re-annotated with numbers as follows:
+- The Period data was re-annotated as follows:
    -  **BeforeIHA** - 1 to 3 days Prior to Index Hospital Admission 
    -  **DuringIHA** - During Index Hospital Admission 
    -  **AfterIHA** - 1 through 30 days After Discharge from Index Hospital Admission
