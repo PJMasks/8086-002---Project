@@ -33,20 +33,20 @@ This information is provided 'as is', and this site makes no warranties on the i
 -  ##### The start date and end Date were removed because they are the same across all the rows (start date =1012015; end date = 12312015)
    - **Procedure**
        - Select the entire column under *start date* and *end date* by clicking the column heading and hit backspace and delete the entire data in those columns.
-- ##### To make analysis easier, the percentage values were formatted as number(removing the % symbol) with two decimal
+- To make analysis easier, the percentage values were formatted as number(removing the % symbol) with two decimal
     - **Procedure**
         - Select the entire required column and hold **CTRL+H**
         
-- ##### To make analysis easier, the cost or spending were formatted as number, where all the cost or spending was accompanied with $ as units
+- To make analysis easier, the cost or spending were formatted as number, where all the cost or spending was accompanied with $ as units
    - **Procedure**
         - Select the entire required column and hold **CTRL+H**
         - Using Find & Replace, find all the '$' values and replace them with empty space
-- ##### The Period data was re-annotated with numbers from 1 - 4
+- The Period data was re-annotated with numbers from 1 - 4
    -  **BeforeIHA** - 1 to 3 days Prior to Index Hospital Admission 
    -  **DuringIHA** - During Index Hospital Admission 
    -  **AfterIHA** - 1 through 30 days After Discharge from Index Hospital Admission
    - **ComEpisode** - Complete Episode
-- ##### The claim types were re-annotated as follows:
+- The claim types were re-annotated as follows:
    - Durable Medical Equipment	- **DME**
    - Carrier - **Carrier**
    - Home Health Agency - **HHA**
@@ -80,7 +80,7 @@ This information is provided 'as is', and this site makes no warranties on the i
      - Select an item in the list, and press Ctrl+A, to select the entire list, and to select all the **0** value cells on the worksheet
      - To delete the entire row for each **0** value cell that was found:
         - On the Ribbon’s Home tab, click Delete, and then click Delete Sheet Rows.
--  ##### Change the values with **percentage** to **decimal** values to help in analysis.
+-   Change the values with **percentage** to **decimal** values to help in analysis.
    - **Procedure**
      - Right-click the cell you wish to change, and select "Format Cells."
      - Click the "Number" tab in the Format Cells window.
