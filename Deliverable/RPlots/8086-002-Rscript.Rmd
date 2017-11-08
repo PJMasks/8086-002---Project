@@ -608,3 +608,5 @@ ggplot(StateSpending_west, aes(x=State, y = ASPE_State, color = State))+
 ggtitle("Graph for highest spending per State in West Region")
 
 ```
+
+
